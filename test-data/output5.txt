@@ -1,0 +1,4 @@
+SUCCESS
+SUCCESS
+Unknown command: 'TOPEDO'
+FAIL
